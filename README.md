@@ -129,7 +129,7 @@ The site is intentionally a **single-file static HTML** — no build tools, no n
 1. Fork or clone this repository
 2. Go to **Settings → Pages**
 3. Set source to **main branch / root**
-4. Your site will be live at `https://yourusername.github.io/repository-name`
+4. Your site will be live at ` https://madhuacademyglobal.github.io/DecisionCompass`
 
 ### Local Preview
 
@@ -179,7 +179,7 @@ This platform exists to serve students and families who cannot afford commercial
 | 📧 Email | madhueducationalacademy@gmail.com |
 | 📍 Location | Kadapa, Andhra Pradesh, India |
 | 🏢 Registration | MSME Registered |
-| 🌐 Website | [Decision Compass](https://your-github-pages-url) |
+| 🌐 Website | [Decision Compass]( https://madhuacademyglobal.github.io/DecisionCompass/) |
 
 </div>
 
